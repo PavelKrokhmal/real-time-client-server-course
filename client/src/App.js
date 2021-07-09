@@ -1,10 +1,10 @@
 import './App.css';
-import LongPulling from './LongPulling';
+import LongPolling from './LongPolling';
 
 function App() {
   return (
     <div className="App">
-      <LongPulling/>
+      <LongPolling/>
     </div>
   );
 }

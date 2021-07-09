@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon longpulling.js"
+    "long-polling": "nodemon longPolling.js"
   },
   "keywords": [],
   "author": "",
