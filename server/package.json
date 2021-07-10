@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "long-polling": "nodemon longPolling.js",
-    "event-source": "nodemon eventSource.js"
+    "event-source": "nodemon eventSource.js",
+    "web-socket": "nodemon webSocket.js"
   },
   "keywords": [],
   "author": "",
